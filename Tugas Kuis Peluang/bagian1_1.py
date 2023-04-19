@@ -93,7 +93,7 @@ jawabSoalno2 = p_terlambat(p_h, p_ll_p_h, p_t_h_ll_p, p_h_th, p_ll_tp_th, p_t_th
 jawabSoalno3 = p_bersyarat(p_t_h_ll_p, p_t_th_ll_tp, p_t_sl, p_h, p_h_th)
 
 # Jawab soal no A
-print("\n=== Jawab ===\n")
+print("\n=== Jawab ===\n") 
 print("[A] Probabilitas Andi tidak terlambat pada kondisi hari tidak hujan dan lalu lintas padat adalah: ", jawabSoalno1)
 print("[B] Probabilitas Andi akan datang terlambat adalah: ", jawabSoalno2) 
 print("[C] Probabilitas hari hujan jika diketahui andi datang terlambat adalah: ", jawabSoalno3)
