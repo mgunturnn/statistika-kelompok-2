@@ -2,5 +2,4 @@
 ![image](https://user-images.githubusercontent.com/112671536/235926023-70513c81-4afc-4032-98a4-367466fcddf8.png)
 
 [HASIL OUTPUT PROGRAM NO 2]
-![image](https://user-images.githubusercontent.com/112671536/235926345-9de668e4-18be-4173-9592-5d85951faf2d.png)
-
+![image](https://user-images.githubusercontent.com/112671536/235926470-e24ef2cd-ecdd-458b-8aab-11494b846be1.png)
